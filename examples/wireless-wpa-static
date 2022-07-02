@@ -1,0 +1,12 @@
+Description='A simple WPA encrypted wireless connection using a static IP'
+Interface=
+Connection=
+Security=
+ESSID=
+Key=
+IP=
+Address=
+Gateway=
+DNS=
+# Uncomment this if your ssid is hidden
+#Hidden=yes
